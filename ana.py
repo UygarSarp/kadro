@@ -2,6 +2,7 @@
 from fonk.functions import dosya_ac,dosya_yaz
 import time
 now = time.strftime("(%d %b, %Y %H.%M.%S)")
+print("Saat:")
 print(now)
 
 while True:
