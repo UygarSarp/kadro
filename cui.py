@@ -1,5 +1,5 @@
 # from fonk import functions --->  functions.dosya_ac() yazman gerekir
-from fonk.functions import dosya_ac,dosya_yaz
+from functions import dosya_ac,dosya_yaz
 import time
 now = time.strftime("(%d %b, %Y %H.%M.%S)")
 print("Saat:")
